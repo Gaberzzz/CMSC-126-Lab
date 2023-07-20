@@ -1,0 +1,176 @@
+
+.wed-love-to {
+  position: absolute;
+  top: 180px;
+  left: 418px;
+  font-size: 37px;
+  font-family: var(--font-oxygen);
+}
+
+.contact-form {
+  position: absolute;
+  top: 300px;
+  left: 110px;
+  width: 533px;
+}
+
+.name-box,
+.email-box,
+.message-box {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+.name-box {
+  height: 35px;
+}
+
+.email-box {
+  height: 35px;
+}
+
+.message-box {
+  height: 285px;
+  resize: none;
+  vertical-align: top; /* Start typing from the top */
+  padding-top: 10px; 
+}
+textarea {
+  resize: none;
+}
+.input-box {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.send {
+  position: absolute;
+  top: 716px;
+  cursor: pointer;
+  left: 301px;
+  font-size: 28px;
+  display: inline-block;
+  color: var(--color-white);
+  width: 111px;
+  height: 39px;
+  background-color: #17252a;
+}
+.we-siblings-love {
+  position: absolute;
+  top: 227px;
+  left: 166px;
+  font-size: 24px;
+}
+.number,
+.norsu-compound-bayawan {
+  position: absolute;
+  top: 306px;
+  left: 871px;
+}
+.number {
+  top: 433px;
+  left: 882px;
+}
+.international,
+.philippines {
+  position: absolute;
+  top: 391px;
+  left: 880px;
+}
+.international {
+  left: 1106px;
+}
+.image-8-icon,
+.x-xxx-xxx-xxxx {
+  position: absolute;
+  top: 437px;
+  left: 1104px;
+}
+.image-8-icon {
+  top: 497px;
+  left: 763px;
+  width: 56px;
+  height: 56px;
+  object-fit: cover;
+}
+.gabaydesugagmailcom,
+.line-div {
+  position: absolute;
+  top: 513px;
+  left: 882px;
+}
+.line-div {
+  top: 586.5px;
+  left: 735.5px;
+  border-top: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 666px;
+  height: 3px;
+}
+.image-2-icon1,
+.image-4-icon1,
+.image-5-icon1 {
+  position: absolute;
+  top: 617px;
+  left: 825px;
+  width: 57px;
+  height: 57px;
+  object-fit: cover;
+}
+.image-4-icon1,
+.image-5-icon1 {
+  top: 609px;
+  left: 1030px;
+  width: 74px;
+  height: 74px;
+}
+.image-5-icon1 {
+  top: 617px;
+  left: 1252px;
+  width: 61px;
+  height: 61px;
+}
+.email,
+.message,
+.name {
+  position: absolute;
+  top: 304px;
+  left: 126px;
+}
+.email,
+.message {
+  top: 351px;
+}
+.message {
+  top: 406px;
+}
+.image-6-icon,
+.image-7-icon {
+  position: absolute;
+  top: 294px;
+  left: 772px;
+  width: 39px;
+  height: 51px;
+  object-fit: cover;
+}
+.image-7-icon {
+  top: 398px;
+  width: 33px;
+  height: 47px;
+}
+
+
+.contact-us5 {
+  position: absolute;
+  top: 60px;
+  left: 477px;
+  font-size: 87px;
+  font-family: var(--font-pacifico);
+  display: inline-block;
+  width: 572px;
+  height: 146px;
+  color: #17252a;
+}

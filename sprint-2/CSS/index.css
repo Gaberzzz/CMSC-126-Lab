@@ -1,0 +1,97 @@
+
+.paint-icon,
+.head-icon {
+  position: absolute;
+  object-fit: cover;
+  top: 82px;
+  left: 903px;
+  width: 226px;
+  height: 221px;
+}
+.paint-icon {
+  top: 312px;
+  left: 336px;
+  width: 215px;
+  height: 198px;
+}
+.art-collection,
+.gabay-familys {
+  position: absolute;
+  top: 119px;
+  left: 86px;
+  font-size: var(--font-size-101xl);
+  font-family: var(--font-pacifico);
+  -webkit-text-stroke: 1.2px #000;
+  color: white;
+}
+.art-collection {
+  top: 280px;
+  left: 581px;
+}
+.ellipse{
+  position: absolute;
+  top: 478px;
+  left: 576px;
+  border-radius: 50%;
+  background-color: var(--color-gray);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 202px;
+  height: 64px;
+}
+.explore {
+  position: absolute;
+  top: 489px;
+  left: 595px;
+  font-size: 35px;
+  font-weight: 600;
+  cursor: pointer;
+  color: white;
+}
+.insta-icon {
+  position: absolute;
+  top: 579px;
+  left: 435px;
+  width: 57px;
+  height: 57px;
+  object-fit: cover;
+}
+
+.about-us,
+.contact-us {
+  position: absolute;
+  top: 688px;
+  left: 492px;
+  font-size: var(--font-size-8xl);
+  color: var(--color-black);
+  cursor: pointer;
+}
+.contact-us {
+  left: 759px;
+}
+.index-inner {
+  position: absolute;
+  top: 379px;
+  left: 1182px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.fb-icon {
+  position: absolute;
+  top: 571px;
+  left: 640px;
+  width: 74px;
+  height: 74px;
+  object-fit: cover;
+}
+
+
+.twitter-icon {
+  position: absolute;
+  height: 61px;
+  top: 579px;
+  left: 862px;
+  width: 61px;
+  object-fit: cover;
+}

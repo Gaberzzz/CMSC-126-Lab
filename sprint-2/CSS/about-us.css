@@ -1,0 +1,252 @@
+.download-1-15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 104px;
+  height: 93px;
+  object-fit: cover;
+}
+.about-us-child {
+  position: absolute;
+  top: 65px;
+  left: -1px;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1452px;
+  height: 2px;
+}
+.biography {
+  position: absolute;
+  top: 57px;
+  left: 580px;
+  font-size: var(--font-size-47xl);
+  font-family: var(--font-pacifico);
+  color: #17252a;
+  display: inline-block;
+  width: 289px;
+  height: 146px;
+}
+
+
+.long-line2{
+  position: absolute;
+  top: 179.5px;
+  left: 69.5px;
+  border-top: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1278px;
+  height: 3px;
+}
+.dialogue-box2,
+.dialogue-box1 {
+  position: absolute;
+  top: 463px;
+  left: 50px;
+  background-color: #def2f1;
+  border: 3px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 385px;
+  height: 225px;
+}
+.dialogue-box2{
+  left: 537px;
+}
+.kristan-jay-t {
+  position: absolute;
+  top: 408px;
+  left: 632px;
+  font-family: var(--font-pacifico);
+  color: var(--color-black);
+}
+.dialogue-box3 {
+  position: absolute;
+  top: 463px;
+  left: 1013px;
+  background-color: #def2f1;
+  border: 3px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 385px;
+  height: 150px;
+}
+.benjie-ryan-t,
+.irene-mae-t,
+.dialogue1,
+.dialogue2, 
+.dialogue3 {
+  position: absolute;
+  top: 408px;
+  left: 150px;
+  font-family: var(--font-pacifico);
+  color: var(--color-black);
+}
+.benjie-ryan-t,
+.dialogue1,
+.dialogue2,
+.dialogue3 {
+  left: 1101px;
+}
+.dialogue1,
+.dialogue2,
+.dialogue3 {
+  top: 477px;
+  left: 70px;
+  font-size: var(--font-size-mid);
+  font-family: var(--font-roboto);
+  display: inline-block;
+  width: 347px;
+  height: 285px;
+}
+.dialogue2 {
+  top: 476px;
+  left: 556px;
+}
+.dialogue3{
+  top: 476px;
+  left: 1032px;
+}
+
+.underline1,
+.underline2,
+.underline3 {
+  position: absolute;
+  top: 442.5px;
+  left: 145.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 199px;
+  height: 1px;
+}
+.underline2,
+.underline3 {
+  left: 626.5px;
+  width: 213px;
+}
+.underline3 {
+  left: 1097.5px;
+}
+.circle-bg1,
+.circle-bg2,
+.circle-bg3 {
+  position: absolute;
+  top: 192px;
+  left: 144px;
+  border-radius: 50%;
+  background-color: var(--color-gray);
+  width: 206.63px;
+  height: 206.63px;
+}
+.circle-bg2,
+.circle-bg3 {
+  top: 201px;
+  left: 617px;
+}
+.circle-bg3 {
+  top: 204px;
+  left: 1098px;
+}
+.icon2,
+.icon3,
+.icon4 {
+  position: absolute;
+  top: 197px;
+  left: 149px;
+  width: 195.62px;
+  height: 195.62px;
+  object-fit: cover;
+}
+.icon3,
+.icon4 {
+  top: 207px;
+  left: 622px;
+  width: 196.47px;
+}
+.icon4 {
+  top: 209px;
+  left: 1103px;
+  width: 199.01px;
+  height: 198.16px;
+}
+
+.ellipse-bg1 {
+  position: absolute;
+  top: 704px;
+  left: 113px;
+  border-radius: 50%;
+  background-color: var(--color-gray);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 219px;
+  height: 50px;
+}
+.explore-benjies-art,
+.explore-irenes-art,
+.explore-kristans-art {
+  color: white;
+  cursor: pointer;
+}
+.explore-irenes-art {
+
+  position: absolute;
+  top: 715px;
+  left: 133px;
+  display: inline-block;
+  width: 187px;
+  height: 25px;
+}
+.explore-benjies-art {
+
+  position: absolute;
+  top: 645px;
+  left: 1124px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 187px;
+  height: 25px;
+}
+.explore-kristans-art {
+
+  position: absolute;
+  top: 724px;
+  left: 640px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 187px;
+  height: 25px;
+}
+.ellipse-bg2 {
+  position: absolute;
+  top: 632px;
+  left: 1104px;
+  border-radius: 50%;
+  background-color: var(--color-gray);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 219px;
+  height: 50px;
+}
+
+
+.ellipse-bg3 {
+  position: absolute;
+  top: 711px;
+  left: 620px;
+  border-radius: 50%;
+  background-color: var(--color-gray);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 219px;
+  height: 50px;
+}
+
+
+.about-us6 {
+  position: relative;
+  background-color: var(--color-lightseagreen);
+  width: 100%;
+  height: 766px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

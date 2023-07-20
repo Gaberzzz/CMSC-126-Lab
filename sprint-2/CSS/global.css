@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-patua-one: "Patua One";
+  --font-pacifico: Pacifico;
+  --font-oxygen: Oxygen;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-7xl: 26px;
+  --font-size-30xl: 49px;
+  --font-size-8xl: 27px;
+  --font-size-101xl: 120px;
+  --font-size-3xl: 22px;
+  --font-size-47xl: 66px;
+  --font-size-xl: 20px;
+  --font-size-mid: 17px;
+
+  /* Colors */
+  --color-lightseagreen: #3aafa9;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray: #17252a;
+  --color-darkslategray: #444;
+  --color-gainsboro: #d9d9d9;
+
+
+  /* border radiuses */
+  --br-8xs: 5px;
+}
+.rectangle{
+  position: absolute;
+  top: 0px;
+  left: -1px;
+  border-top: 64px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1500px;
+  height: 30px;
+}
+.gaberzzz {
+  position: absolute;
+  height: 61px;
+  top: 5px;
+  left: 73px;
+  font-size: var(--font-size-30xl);
+  font-family: var(--font-patua-one);
+  display: inline-block;
+  width: 240px;
+  -webkit-text-stroke: 0.5px #000;
+  color: #17252a;
+}
+.about-us1,
+.collection,
+.contact-us1,
+.home {
+  position: absolute;
+  top: 22px;
+  left: 873px;
+  color: #17252a;
+  cursor: pointer;
+}
+.about-us1,
+.contact-us1,
+.home {
+  left: 1062px;
+}
+.contact-us1,
+.home {
+  left: 1236px;
+}
+.home {
+  left: 748px;
+}
+
+.logo {
+  position: absolute;
+  top: -11px;
+  left: -15px;
+  width: 104px;
+  height: 93px;
+  object-fit: cover;
+}
+.background {
+  position: relative;
+  background-color: var(--color-lightseagreen);
+  width: 100%;
+  height: 761px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.long-line {
+  position: absolute;
+  top: 65px;
+  left: -1px;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1500px;
+  height: 2px;
+}
